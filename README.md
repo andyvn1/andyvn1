@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Andy
-- 👀 I’m interested in expanding my knowledge in programming.
-- 🌱 I’m currently working on projects that help me become a better developer.
-- 💞️ I’m looking to collaborate on any project where I can learn and gain experience.
-- 📫 Reach me at andy.vargas.noesi@gmail.com
+## Hi, I’m Andy 👋
 
-<!---
-andyvn1/andyvn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CS & Software Engineering student at the University of Washington Bothell. I like building practical, reliable software with strong fundamentals—clean code, clear docs, and measurable results.
+
+### Focus areas
+- Backend development (APIs, services, data access)
+- Automation and scripting (Python)
+- Data work (ETL, analysis, basic ML pipelines)
+- Systems fundamentals (Linux, networking, performance)
+
+### Tech
+Python • Java • C++ • SQL  
+Git • Linux • REST APIs
+
+### What you’ll find here
+- Coursework and fundamentals (data structures, algorithms, systems)
+- Small tools that solve real problems
+- Projects that emphasize readability, testing, and documentation
+
+### Connect
+- LinkedIn: https://www.linkedin.com/in/andyvargasnoesi
+- Email: andy.vargas.noesi@gmail.com
