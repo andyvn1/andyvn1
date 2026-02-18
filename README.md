@@ -1,6 +1,6 @@
 ## Hi, I’m Andy 👋
 
-CS & Software Engineering student at the University of Washington Bothell. I like building practical, reliable software with strong fundamentals—clean code, clear docs, and measurable results.
+CS & Software Engineering student at the University of Washington Bothell. I like building practical, reliable software with strong fundamentals clean code, clear docs, and measurable results.
 
 ### Focus areas
 - Backend development (APIs, services, data access)
